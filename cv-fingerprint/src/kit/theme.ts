@@ -9,12 +9,14 @@ export const inter = loadInter('normal', {weights: ['400', '500', '600', '700', 
 
 // Palette — change per project (keep one accent colour)
 export const C = {
-	bg: '#FAFAF8',
-	ink: '#111111',
-	muted: '#8C8C88',
-	hair: 'rgba(17,17,17,0.85)',
-	accent: '#D97757',
+	bg: '#F4F1EA',
+	ink: '#1B2333',
+	muted: '#8A8F98',
+	hair: 'rgba(27,35,51,0.85)',
+	accent: '#FF6B2C', // you
+	ai: '#6C5CE7', // the AI helper
 	card: '#FFFFFF',
+	gray: '#E3E5E9',
 };
 
 // Easing presets
